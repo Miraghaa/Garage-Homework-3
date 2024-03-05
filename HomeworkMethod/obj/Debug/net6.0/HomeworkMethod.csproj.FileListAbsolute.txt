@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\HomeworkMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\HomeworkMethod.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\HomeworkMethod.AssemblyInfo.cs
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\HomeworkMethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\bin\Debug\net6.0\HomeworkMethod.exe
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\bin\Debug\net6.0\HomeworkMethod.deps.json
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\bin\Debug\net6.0\HomeworkMethod.runtimeconfig.json
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\bin\Debug\net6.0\HomeworkMethod.dll
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\bin\Debug\net6.0\HomeworkMethod.pdb
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\HomeworkMethod.dll
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\refint\HomeworkMethod.dll
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\HomeworkMethod.pdb
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\HomeworkMethod.genruntimeconfig.cache
+C:\Users\USER\source\repos\HomeworkMethod\HomeworkMethod\obj\Debug\net6.0\ref\HomeworkMethod.dll
